@@ -1,7 +1,7 @@
 //Defining variables
 var a = 0,
     b = 0,
-value = (a * a) + (2 * a * b) - (b * b);
+    value = (a * a) + (2 * a * b) - (b * b);
 
 console.log(value);
 
